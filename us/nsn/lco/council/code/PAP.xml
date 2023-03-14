@@ -21209,11 +21209,11 @@
             <text>In order to be eligible for holiday pay, the team member must work their scheduled day before and the scheduled day after the observed holiday, unless they have a prearranged paid time off.</text>
             <para>
               <num>(A)</num>
-              <text>The holiday will be the 24 hour period beginning at 12:01 am and ending at 12:00 am on the designated holiday unless otherwise specified by the Executive Management Team.</text>
+              <text>The holiday will be the 24-hour period that is considered for that work day unless otherwise specified by the Executive Management Team.</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>The following days are considered observed holidays: New Year's Eve beginning at 4 PM, New Year's Day, Treaty Day, Easter Day, American Indian Day, Memorial Day, Independence Day, Honor the Earth (HTE) Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, and Christmas Eve beginning at 4 PM and Christmas Day.</text>
+              <text>The following days are considered observed holidays: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President’s Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, Independence Day, Honor the Earth (HTE) Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve, and Christmas Day.</text>
             </para>
           </para>
           <para>
@@ -21244,6 +21244,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-14"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-30"/>
           <annotation type="Prior Codifications">§PAP.9.6.080 was formerly codified as XIV LCOTCL §9.608</annotation>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-119" eff="2022-11-21" path="" type="History"/>
         </annotations>
       </section>
       <section>
