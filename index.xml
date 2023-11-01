@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>Lac Courte Oreilles Law Library</heading>
+  <meta>
+    <description>Browse the laws and code of Lac Courte Oreilles</description>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/lco-nsn/law-xml</xml-bulk>
+      <html-bulk>https://github.com/lco-nsn/law-html</html-bulk>
+      <static-assets>https://github.com/lco-nsn/law-static-assets</static-assets>
+      <law-git>https://github.com/lco-nsn/law.git</law-git>
+      <html>https://law.lco-nsn.gov</html>
+    </canonical-urls>
+    <history-start>2021-12-19</history-start>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="lco-nsn/law-xml" commit="b7d5430f6c2202fc001fde7abfa9159fd51135f3"/>
+      </repositories>
+      <platform version="2.12.7" reproducible="true"/>
+      <build-date>2023-11-01</build-date>
+      <codified-date>2021-12-20</codified-date>
+      <publication>publication/2023-11-01</publication>
+    </build>
+  </meta>
+  <xi:include href="./us/nsn/lco/council/constitution/index.xml"/>
+  <xi:include href="./us/nsn/lco/council/code/index.xml"/>
+  <collection name="us/nsn/lco/council/resolutions">
+    <heading>Tribal Governing Board Resolutions</heading>
+    <text>Resolutions impacting the Lac Courte Oreilles Tribal Code are provided for reference and the convenience of Lac Courte Oreilles Tribal Law Library users. The list of resolutions for changes prior to codification in 2022 may be incomplete.</text>
+    <xi:include href="./us/nsn/lco/council/resolutions/2023/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2022/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2021/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2020/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2017/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2012/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2007/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2006/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2005/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2004/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/1990/index.xml"/>
+  </collection>
+  <collection name="us/nsn/lco/council/treaties">
+    <heading>Treaties</heading>
+    <xi:include href="./us/nsn/lco/council/treaties/1854/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/treaties/1842/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/treaties/1837/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/treaties/1825/index.xml"/>
+  </collection>
+  <xi:include href="./us/nsn/lco/council/drafting-manual/index.xml"/>
+  <collection name="us/nsn/lco/council/forms">
+    <heading>Forms</heading>
+    <xi:include href="./us/nsn/lco/council/forms/election/index.xml"/>
+  </collection>
+</library>
