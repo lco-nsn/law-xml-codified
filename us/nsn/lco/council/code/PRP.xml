@@ -5036,22 +5036,27 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Land lots, non-primary dwelling, or dwelling under construction (initial construction) are not eligible for HAF funding under <cite path="PRP|PRP.9">this chapter</cite>.</text>
+          <text>Eligible applicants whose income exceeds 150% of the area median income will be assisted with the Homeowner Assistance Program set-aside of the Tribe's ARPA funds.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The Applicant is a homeowner who has experienced a ﬁnancial hardship after January 21, 2020 and have an income equal to or less than 150% of the area median income.</text>
+          <text>Land lots, non-primary dwelling, or dwelling under construction (initial construction) are not eligible for HAF funding under <cite path="PRP|PRP.9" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47">this chapter</cite>.</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>The Applicant attests to the nature of the ﬁnancial hardship experienced after January 21, 2020. The attestation must describe the nature of the ﬁnancial hardship (for example, job loss, reduction in income, or increased costs due to healthcare or the need to care for a family member).</text>
+          <text>The Applicant is a homeowner who has experienced a ﬁnancial hardship after January 21, 2020 and have an income equal to or less than 150% of the area median income.</text>
         </para>
         <para>
           <num>(g)</num>
+          <text>The Applicant attests to the nature of the ﬁnancial hardship experienced after January 21, 2020. The attestation must describe the nature of the ﬁnancial hardship (for example, job loss, reduction in income, or increased costs due to healthcare or the need to care for a family member).</text>
+        </para>
+        <para>
+          <num>(h)</num>
           <text>HAF Program Funds received by an Applicant must only be used for qualiﬁed expenses set forth in these Policies and Procedures that are related to the Dwelling that is used as the homeowner's primary residence.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§PRP.9.4.050 was formerly codified as XI LCOTCL §9.405</annotation>
+          <annotation app="2022-05-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47" eff="2022-05-17" path="" target-path="|PRP.9.4.050" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5190,7 +5195,7 @@
       <section>
         <num>PRP.9.6.010</num>
         <heading>Documentation</heading>
-        <text>Once an Applicant is approved for participation in the HAF Program, they must submit information and documentation of the qualiﬁed expenses for which they are seeking HAF Program Funds.</text>
+        <text>Once an Applicant is approved for participation in the HAF Program, they must submit information and documentation of the qualiﬁed expenses for which they are seeking HAF Program Funds. Documentation requirements, other than that required for general eligibility, do not apply to those applicants whose income exceeds 150% of the area median income.</text>
         <text>Applicants may initially submit the above information and documentation at the same time that they submit their initial program Application.</text>
         <text>
           <strong>For Mortgage Assistance:</strong>
@@ -5206,6 +5211,7 @@
         <text>Same as general eligibility requirements, plus: (1) At the time repairs begin, homeowner is current on other secured home payment obligations, on an active payment plan or forbearance, and/or getting related HAF assistance for those obligations. Homeowner will be able to afford applicable payments necessary to sustain homeownership (mortgage, taxes, insurance, association dues, etc.) after repairs are completed, based on a financial analysis established at the reasonable discretion of Grantee. (2) Homeowner does not qualify for or has not been able to access affordable home repair financing (self-attestation of applicant's efforts will satisfy). The Tribe will determine, based on a reasonable analysis of homeowner needs data, that homeowners meeting certain criteria (e.g., income at or below a percentage of AMI) are presumed to meet this requirement without requiring homeowner attestation or documentation; and (3) Attestation of financial hardship that homeowner(s) has been impacted by COVID from January 21,2020 to present time.</text>
         <annotations>
           <annotation type="Prior Codifications">§PRP.9.6.010 was formerly codified as XI LCOTCL §9.601</annotation>
+          <annotation app="2022-05-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47" eff="2022-05-17" path="" target-path="|PRP.9.6.010" type="History"/>
         </annotations>
       </section>
     </container>
