@@ -4272,6 +4272,1754 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>CMP.3</num>
+    <heading>Contracts Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
+    <text>The Odaawaa-zaaga'igani-anishinaabe declare that the public good and the welfare of the Tribe requires the enactment of this ordinance to promote Tribal economic self-sufficiency; ensure Tribal economic security; protect the Tribe's political integrity; enable the Tribe to better serve the social, economic, educational, and health and safety needs of its members, visitors, and consumers; and provide its members with opportunities to improve their own economic circumstances – all by creating a legal framework that prevents misunderstandings, safeguards against unfairness, and ensures accountability and certainty. This aligns with Anishinaabe traditional and cultural values. This ordinance is enacted pursuant to the Tribe's inherent sovereign authority which predates its Treaties of 1825, 1826, 1837, 1842, 1847, and 1854 with the United States Government. The Tribe possesses inherent sovereign authority to regulate contracts and commercial relationships in Tribal Indian country, and to provide for adjudication and alternative dispute resolution of contract disputes. Federal law recognizes the Tribe's civil jurisdiction over non‑members who enter into consensual relationships with the Tribe, its members, or reservation‑based enterprises, through commercial dealing, contracts, leases, or other arrangements in Indian country. See Montana v. United States, 450 U.S. 544, 565-66 (1981).</text>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.1</num>
+      <heading>Introduction</heading>
+      <section>
+        <num>CMP.3.1.010</num>
+        <heading>Title</heading>
+        <text>This ordinance shall be known as the Contracts Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.1.020</num>
+        <heading>Authority</heading>
+        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians relating to the operation of the Tribal Government and the delivery of governmental services which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1(h) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people"; "[t]o negotiate, make and perform contracts and agreements of every description, not inconsistent with law or with any provisions of this Constitution, with any person, association, or corporation, with any county, or with the State of Wisconsin or the United States" (<cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(c)">Article V, § 1(c)</cite>); "[t]o regulate, by enactment of ordinances, the conduct of business within the territory of the band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation." (<cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1(n)</cite>). In carrying out their Constitutional authority of enacting ordinances, the Tribal Governing Board may create, repeal, renumber, or amend, in whole or in part, the Lac Courte Oreilles Tribal Code of Law (LCOTCOL).</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.1.030</num>
+        <heading>Purpose</heading>
+        <para>
+          <num>(a)</num>
+          <text>Provide a comprehensive Tribal Contracts Code governing formation, performance, breach, and remedies for contracts entered into within the jurisdiction of the Tribe, or under Tribal law;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Preserve and strictly control any waiver of the Tribe's sovereign immunity;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Promote respect for the customs, traditions, and culture of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, while promoting economic development within the Territorial Jurisdiction of the Tribe.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Exercise and support Tribal civil jurisdiction over consensual relationships, including commercial dealings, with non‑Indians and other non‑members, consistent with <em>Montana v. United States</em>, 450 U.S. 544 (1981), and its progeny;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Clarify the allocation of authority between courts and arbitrators, including the ability to delegate arbitrability to arbitrators by clear agreement; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Promote certainty and fairness for all parties doing business with the Tribe, Tribal entities, Tribal members, and others within Tribal Indian country.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.1.040</num>
+        <heading>Effective Date</heading>
+        <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.1.050</num>
+        <heading>Severability and Non-Liability</heading>
+        <text>If any section, provision, or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.1.060</num>
+        <heading>Sovereign Immunity</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Tribal Immunity From Suit</u>.  Nothing in this ordinance is or shall be interpreted to constitute a waiver of the sovereign immunity of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians or any of its officials and employees acting within the scope of their authority.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Effectuating a Waiver</u>.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Lac Courte Oreilles Band of Lake Superior Chippewa Indians, including all subordinate entities, is and shall remain immune from suit - except to the extent that the LCO Tribal Governing Board clearly and expressly in writing waives the sovereign immunity of the Tribe including all officials and employees of the Tribe who are acting within the scope of their duties or authority pursuant to LCOTCOL, <cite path="TCT.1">Chapter TCT.1</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Proper Approval</u>. To be effective, any waiver of sovereign immunity, including any limited waiver of sovereign immunity, must be expressly granted by the official action of the LCO Tribal Governing Board pursuant to LCOTCOL, <cite path="TCT.1">Chapter TCT.1</cite>.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text><u>Other Laws</u>. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians, including all subordinate entities, do not waive sovereign immunity by taking any action to utilize the protection of any state law, such as any state enactment of Article 9 of the Uniform Commercial Code.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.1.070</num>
+        <heading>Relation to Other Laws</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Applicable Law</u>. Unless affected or displaced by this ordinance, principles of law and equity in the common law of the Tribe, including its tribal customs and traditions, are applicable.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Conflicts with Tribal Laws</u>.</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Tribal Law</u>. To the extent that this ordinance may conflict with the Tribe's laws or ordinances which have been enacted to comply with statutes or regulations of any agency of the United States, such tribal laws or ordinances shall govern over the provisions of this ordinance if it has specific applicability and it is clearly in conflict with the provisions of this ordinance.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>In the event of direct conflict, any specific provision of LCOTCOL, <cite path="TCT.1">Chapter TCT.1</cite> (Sovereign Immunity Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians) shall control on matters of sovereign immunity and waiver, while <cite path="CMP.3">this Chapter</cite> shall control on matters of contract formation; performance; breach; and remedies; unless expressly superseded.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Conflicts with State Law</u>. To the extent that the laws of any state may be applicable to the subject matter of this ordinance, such laws shall be read to be advisory and not directly binding and shall not govern the relations of the parties.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.1.080</num>
+        <heading>Interpretation</heading>
+        <text>The provisions of this ordinance:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall be interpreted and applied as minimum requirements applicable to the activities subject to this ordinance;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Shall be liberally construed in favor of the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Shall not be deemed a limitation or repeal of any other tribal power or authority;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this ordinance, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, an adjudicator may use other tribal law, federal law including United States Courts of Federal Claims opinions, or the Restatement (Second) of Contracts for guidance.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.1.090</num>
+        <heading>Special Rules</heading>
+        <text>All agreements binding the Tribe for over five (5) years and/or in which the purchase price or value of goods exceeds $100,000.00 requires approval by an absolute majority vote of the LCO Tribal Governing Board at a duly called meeting pursuant to LCOTCOL, <cite path="|MCC.2.3.050">MCC.2.3.050</cite>.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.2</num>
+      <heading>Definitions</heading>
+      <section>
+        <num>CMP.3.2.010</num>
+        <heading>General Definitions</heading>
+        <text>Any term not defined in <cite path="|CMP.3.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <para>
+          <num>(a)</num>
+          <text><strong>"Acceptance"</strong> means a communication made by an Offeree to an Offeror agreeing to the content of the Offer that manifests intent to enter into a Contract.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><strong>"Arbitration Agreement"</strong> means a written agreement to submit present or future disputes to binding arbitration.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><strong>"Assignor"</strong> means one who makes an assignment.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><strong>"Band"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><strong>"Breaching Party"</strong> means a party that fails to perform a contractual duty when performance is due, without legal excuse.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><strong>"Contract"</strong> means a promise or set of promises, the performance or breach of which gives rise to a legally recognized duty.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><strong>"Consideration"</strong> means some form of legal benefit or detriment that reflects a bargained-for exchange between the parties to a Contract.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><strong>"Court"</strong> means the courts of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><strong>"Delegate"</strong> means one who represents or acts for another.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text><strong>"Delegator"</strong> means one who delegates to another.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text><strong>"Divisible Contract"</strong> means a Contract where the performance of each party is divided into two or more parts.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text><strong>"Estoppel"</strong> means an equitable doctrine, a bar that prevents one from asserting a claim or right that contradicts what one has said or done before, or what has been legally established as true.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text><strong>"Good Faith"</strong> means honesty in fact and observance of reasonable commercial standards of fair dealing.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text><strong>"Illusory"</strong> means a promise or contract that is an unenforceable agreement where one party makes a statement that sounds like a commitment but actually reserves the discretion to not perform, lacking real consideration.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text><strong>"LCO" </strong>means Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text><strong>"LCOTCOL"</strong> means the Lac Courte Oreilles Tribal Code of Law.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text><strong>"Merchant"</strong> means a person who regularly deals in goods of the kind.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text><strong>"Minor"</strong> means any person under eighteen (18) years of age.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text><strong>"Non‑Indian" or "Non‑Member"</strong> means any person who is not an enrolled member of a federally recognized Indian tribe, or of the Lac Courte Oreilles Band, respectively, as defined in LCOTCOL, <cite path="CTZ.1">CTZ.1</cite>.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text><strong>"Obligor"</strong> means a person or entity who owes an obligation to another.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text><strong>"Offer"</strong> means a communication made by an Offeror to an Offeree that demonstrates the intent to enter into a Contract.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text><strong>"Offeree"</strong> means a person or entity to which an Offer is made.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text><strong>"Offeror"</strong> means a person or entity that makes an Offer.</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text><strong>"Party" or "Parties"</strong> means one or more persons or entities that enter into a Contract.</text>
+        </para>
+        <para>
+          <num>(y)</num>
+          <text><strong>"Promisee"</strong> means a person or entity to which a promise is made.</text>
+        </para>
+        <para>
+          <num>(z)</num>
+          <text><strong>"Promisor"</strong> means a person or entity that makes a promise.</text>
+        </para>
+        <para>
+          <num>(aa)</num>
+          <text><strong>"Signature"</strong> means some symbol, mark or other writing, whether by hand or by electronic means, intended by the signor to serve as acknowledgement of his or her acceptance or approval.</text>
+        </para>
+        <para>
+          <num>(bb)</num>
+          <text><strong>"Tender"</strong> means the present willingness and ability to perform.</text>
+        </para>
+        <para>
+          <num>(cc)</num>
+          <text><strong>"Sovereign Immunity"</strong> means the Tribe's immunity from suit or legal process in any forum, except to the extent expressly and unequivocally waived in accordance with LCO law.</text>
+        </para>
+        <para>
+          <num>(dd)</num>
+          <text><strong>"State"</strong> includes a state, territory, or possession of the United States and the District of Columbia.</text>
+        </para>
+        <para>
+          <num>(ee)</num>
+          <text><strong>"Territorial Jurisdiction"</strong> means those lands, including the beds of any streams and flowages, located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+        </para>
+        <para>
+          <num>(ff)</num>
+          <text><strong>"Tribal Citizen"</strong> means an enrolled member of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin.</text>
+        </para>
+        <para>
+          <num>(gg)</num>
+          <text><strong>"Tribal Court"</strong> means the Lac Courte Oreilles Tribal Court established under LCOTCOL, <cite path="|TCT.2.3.010">TCT.2.3.010</cite>, including any appellate court, established under LCOTCOL, <cite path="|TCT.3.1.010">TCT.3.1.010</cite>, pursuant to LCO Const., <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q),</cite> (s).</text>
+        </para>
+        <para>
+          <num>(hh)</num>
+          <text><strong>"Tribal Entity"</strong> includes the Tribe, the Tribal Governing Board, a general partnership, limited partnership, a domestic or foreign limited liability company, a trust, an estate, an association, a corporation, a program, a department, an administrative agency or any other legal, commercial or governmental entity wholly or partially owned or controlled by the Tribe.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board as established by the Amended Tribal Constitution, adopted and revised in November 1966 as the governing body of the Tribe.</text>
+        </para>
+        <para>
+          <num>(jj)</num>
+          <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin.</text>
+        </para>
+        <para>
+          <num>(kk)</num>
+          <text><strong>"Writing"</strong> means any document that identifies the material terms of a Contract. A Writing can be in any form, tangible or electronic.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.3</num>
+      <heading>Applicability</heading>
+      <section>
+        <num>CMP.3.3.010</num>
+        <heading>Covered Contracts</heading>
+        <para>
+          <num>(a)</num>
+          <text>Except as limited in LCOTCOL, <cite path="|CMP.3.3.010|(b)">CMP.3.3.010(b)</cite>, the Tribe's jurisdiction under <cite path="CMP.3">this Chapter</cite> extends to:</text>
+          <para>
+            <num>(1)</num>
+            <text>All contracts to which the Tribe is a party;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All contracts to which a Tribal Entity is a party;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>All contracts where both parties to the Contract are Tribal Citizens;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>All contracts where at least one party to the Contract a Tribal Citizen and the Contract is entered into, and is intended to be performed, within the Territorial Jurisdiction of the Tribe, as defined in LCOTCOL, <cite path="|TCT.2.2.010|(g)">TCT.2.2.010(g)</cite>; or</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>All contracts where the parties expressly agree that Tribal Law or <cite path="CMP.3">this Chapter</cite> governs.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><cite path="CMP.3">This Chapter</cite> does not apply to:</text>
+          <para>
+            <num>(1)</num>
+            <text>Family law or domestic relations agreements governed by LCOTCOL, <cite path="DMR.2">DMR.2</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Trust Land transactions (trust land leases and mortgage leaseholds) governed by LCOTCOL, <cite path="PRP.10">PRP.10</cite>.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Employment contracts, unless that employment contract incorporates <cite path="CMP.3">this Chapter</cite> by reference; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any contract expressly excluded by resolution of the LCO Tribal Governing Board or by specific provision of the LCOTCOL.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.3.020</num>
+        <heading>Consensual Relationships and Jurisdiction Over Non‑Members</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any non‑Indian person or non-Tribal entity that enters into a contract, agreement, or other instrument governed by <cite path="CMP.3">this Chapter</cite> with:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Tribe;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A Tribal Entity; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A Tribal Citizen or Tribal‑based entity in relation to activities occurring within the Territorial Jurisdiction of the Tribe, as defined in LCOTCOL, <cite path="|TCT.2.2.010|(g)">TCT.2.2.010(g)</cite>, thereby enters into a consensual relationship with the Tribe and consents to the civil jurisdiction of the LCO Tribal Court and any arbitral forum designated under <cite path="CMP.3">this Chapter</cite>, for all disputes arising out of or related to that relationship.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>This exercise of jurisdiction is expressly grounded in and consistent with <em>Montana v. United States</em>, 450 U.S. 544 (1981), and subsequent federal decisions recognizing Tribal authority over consensual relationships with non‑members in Indian country.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Notwithstanding any state law to the contrary, a contract, agreement, or other instrument governed by <cite path="CMP.3">this Chapter</cite> shall be deemed made in the Territorial Jurisdiction of the Tribe and shall be deemed performed within the Territorial Jurisdiction of the Tribe.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.3.030</num>
+        <heading>Statute of Limitations</heading>
+        <text>An action for breach of Contract must be brought within six (6) years of the accrual of the claim; otherwise the action is barred, unless a different time limit has been agreed to by the parties as indicated in the contract, agreement or other instrument.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.4</num>
+      <heading>Contract Formation</heading>
+      <section>
+        <num>CMP.3.4.010</num>
+        <heading>Contract Formation in General.</heading>
+        <text>To form a valid Contract, there must be an Offer, an Acceptance, and valid Consideration given.</text>
+        <para>
+          <num>(a)</num>
+          <text><u>Offer</u>. An Offer creates a power of Acceptance in the Offeree and a corresponding liability on the part of the Offeror.</text>
+          <para>
+            <num>(1)</num>
+            <text>For a communication to be an Offer, it must contain a promise, undertaking, or commitment to enter into a Contract that shows the Offeror's intent to Contract.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Offer must be definite and certain as to the identity of the Offeree or the class to which Offeree belongs, the subject matter of the Offer, and the price to be paid, unless indicated otherwise.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Acceptance</u>. An Acceptance is a manifestation of assent to the terms of the Offer, through which the Offeree exercises the power given by the Offeror to create a Contract.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Mutual Assent</u>.</text>
+          <para>
+            <num>(1)</num>
+            <text>A Contract requires mutual assent, which is determined objectively from words, conduct, and circumstances, including Lac Courte Oreilles custom and tradition;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Where ambiguity exists, Tribal custom and tradition shall be consulted first in determining the presence or absence of mutual assent.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Consideration</u>.</text>
+          <para>
+            <num>(1)</num>
+            <text>A promise is not enforceable unless supported by consideration;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Consideration may be minimal, but it must not be illusory;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Past consideration is generally insufficient, except where written and expressly recognized as enforceable by the parties consistent with custom or moral obligation recognized in Tribal tradition.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.4.020</num>
+        <heading>Bilateral and Unilateral Contracts</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Bilateral Contract</u>. A bilateral Contract is formed by a mutual exchange of promises, in which each party is both a Promisor and a Promisee.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Unilateral Contract</u>. A unilateral Contract is formed only upon the Offeror requesting performance, rather than a promise, and full performance by the Offeree.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.4.030</num>
+        <heading>Definiteness of Subject Matter. The subject matter of a Contract must be reasonably certain such that the promise is identifiable.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A Contract involving the sale of real estate must identify the land, the price to be paid, and the parties to the Contract.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A Contract involving the sale of goods must contain the quantity. It is sufficient if a Contract calls for one party to supply all that the party produces or all that the other party requires, so long as the quantity is capable of being determined.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A missing Contract term does not prevent formation of the Contract if it appears under the facts and circumstances that the parties intended to make a Contract, and there is a reasonably certain basis for giving a remedy. The Court may supply reasonable terms for those that are missing.</text>
+          <para>
+            <num>(1)</num>
+            <text>If the missing term is price, the Court may use the fair market value or the value currently used in the geographical area and the relevant industry to determine a reasonable price.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For any other missing term in a Contract, the Court should base its determination on the course of dealing between the parties, the course of performance between the parties, or industry practice or standards.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.4.040</num>
+        <heading>Terminating an Offer.</heading>
+        <text>The power of Acceptance created by an Offer end when the Offer is terminated by revocation, rejection, operation of law, or expiration.</text>
+        <para>
+          <num>(a)</num>
+          <text><u>Revocation</u>. An Offeror may revoke his or her Offer at any time before the Offeree accepts. The revocation may be communicated to the Offeree either directly or indirectly. Indirect communication of the revocation occurs when the Offeree receives correct information from a reliable source of any action of the Offeror that would indicate to a reasonable person that the Offeror no longer wishes to make the Offer.</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Option Contract</u>. An Offeror may not revoke an Offer if the Offeree has given consideration for a promise by the Offeror not to revoke.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Detrimental Reliance</u>. Where the Offeror could reasonably expect that the Offeree would rely to his or her detriment on the Offer; and the Offeree does so rely, the Offer will be held irrevocable as an option Contract for a reasonable length of time.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text><u>Part Performance of Unilateral Contract</u>. An Offer for a unilateral Contract becomes irrevocable once performance has begun. Once the Offeree has begun performance, he or she has a reasonable time to complete performance, during which time the Offer remains irrevocable.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Rejection</u>. An Offeree may terminate an Offer by an express rejection or a counteroffer.</text>
+          <para>
+            <num>(1)</num>
+            <text>An express rejection is a statement by the Offeree that he or she does not intend to accept the Offer; and such statement will terminate the Offer.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A counteroffer is an Offer made by the Offeree to the Offeror that contains the same subject matter as the original Offer, but differs in its terms. A counteroffer serves as both a rejection of the original Offer and a new Offer.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A rejection is effective when it is received by the Offeror.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>If an Offer is rejected, the Offeror may restate the same Offer and create a new power of Acceptance. The Offeror may also make a different offer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Termination by Operation of Law</u>.</text>
+          <para>
+            <num>(1)</num>
+            <text>If either of the parties dies, is adjudicated insane or incompetent, or is appointed a guardian prior to Acceptance, the Offer is terminated. It is not necessary that the death, insanity or incompetence be communicated to the other party. However, if the rules limiting an Offeror's power to terminate are applicable (option Contract, detrimental reliance, or part performance), then death, insanity or incompetence will not terminate the Offer.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the subject matter of the Contract is destroyed, the Offer is terminated.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If the subject matter or the performance of the Contract becomes illegal, the Offer is terminated.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Expiration</u>.</text>
+          <para>
+            <num>(1)</num>
+            <text>An Offer remains open for the time period specified or, if no time is stated, for a reasonable period of time.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.4.050</num>
+        <heading>Acceptance of an Offer.</heading>
+        <text>For an Offer to be accepted, the Offeree must know of the Offer and unequivocally accept the Offer in the manner requested or by other reasonable means.</text>
+        <para>
+          <num>(a)</num>
+          <text>An Acceptance is effective at the moment it is received by the Offeror personally or at his or her usual place of business. However, if the Acceptance is by mail or similar means, it is effective at the moment of dispatch so long as the mail is properly addressed and stamped.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any additional or different terms in the response will not constitute an Acceptance, and will instead be considered a rejection and a counteroffer.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.4.060</num>
+        <heading>Modification of Contract Terms</heading>
+        <para>
+          <num>(a)</num>
+          <text>A final Contract cannot be modified unless the modification is supported by new Consideration.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A written Contract may be modified orally. However, if a Contract, as modified, falls within <cite path="|CMP.3.9.030|(a)">CMP.3.9.030(a)</cite> herein concerning the Prevention of Fraud, the Contract and any modification must be in Writing.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.5</num>
+      <heading>Determining Terms of Contract &amp; Interpretation</heading>
+      <section>
+        <num>CMP.3.5.010</num>
+        <heading>General Rules of Interpretation</heading>
+        <para>
+          <num>(a)</num>
+          <text>Contracts must be interpreted as a whole. Specific clauses will be subordinated to the Contract's general intent.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Words must be interpreted according to their ordinary meaning, unless the words are defined in the Contract or it is clear that they were meant to be used in a technical sense.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If provisions within the Contract appear to be inconsistent, written or typed provisions will prevail over handwritten provisions.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Ambiguities in a Contract are construed against the party preparing the Contract, absent evidence of any contrary intention of the parties.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Competent evidence of custom and tradition is not parole evidence and may be used to determine the parties' intent or to  assist in interpreting any contractual meaning subject to <cite path="|CMP.3.5.020">CMP.3.5.020</cite>.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.5.020</num>
+        <heading>Custom and Tradition in Contract Interpretation</heading>
+        <para>
+          <num>(a)</num>
+          <text>Primary Role of Custom and Tradition.</text>
+          <para>
+            <num>(1)</num>
+            <text>In resolving ambiguities or gaps in a Contract governed by <cite path="CMP.3">this Chapter</cite>, the Tribal Court and any arbitrator shall look first to the customs and traditions of the LCO people concerning promises, obligations, reciprocity, and fairness, as recognized in LCO law.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Where Contract language is reasonably susceptible to more than one meaning, the interpretation most consistent with LCO custom and tradition shall be favored, provided it does not contradict clear, express terms.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Evidence of Custom and Tradition.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Court or arbitrator may consider affidavits or oral testimony of Tribal elders, Tribal historians, Tribal cultural experts, and other knowledgeable persons regarding relevant customs and traditions.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Written Tribal resolutions, historical records, and prior Tribal Court decisions recognizing LCO custom and tradition may be admitted as evidence of such customs.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Custom and tradition shall be applied flexibly, recognizing that practices may evolve, provided such application is consistent with the well‑being and values of the LCO community.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Good Faith, Fair Dealing, and Custom.</text>
+          <para>
+            <num>(1)</num>
+            <text>Parties covenant to good faith and fair dealing. This covenant shall be interpreted in light of LCO customs and traditions regarding honesty, reciprocity, fulfillment of promises, and maintenance of harmonious relationships.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A party's conduct that technically complies with Contract language but violates these customary principles may be found to breach the duty of good faith if such breach is found to:</text>
+            <para>
+              <num>(A)</num>
+              <text>harm the goodwill and reputation of the Tribe in the community at large;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>disrupts the smooth and orderly delivery of services to tribal members;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>tends to place in doubt the reliability, trustworthiness, or sound judgment of the person who violates the customary principles of good faith and fair dealing.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Construction in Favor of Tribal Sovereignty and Community Welfare</u>. Where reasonable, Contracts shall be interpreted in a manner consistent with Tribal sovereignty, economic self‑sufficiency, and the welfare of the LCO community.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Application of this <cite path="|CMP.3.5.020">subsection CMP.3.5.020</cite> shall not prospectively waive or preclude any federal statutory rights.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.6</num>
+      <heading>Performance of a Contract</heading>
+      <section>
+        <num>CMP.3.6.010</num>
+        <heading>Performance of Contract in General.</heading>
+        <text>A party's basic duty is to substantially perform all that is called for in the Contract.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.6.020</num>
+        <heading>Discharging Contractual Duties.</heading>
+        <text>A party's duties under a Contract may be discharged under the following circumstances:</text>
+        <para>
+          <num>(a)</num>
+          <text><u>Performance</u>. Full and complete performance under the Contract discharges a party's duties under the Contract.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Tender</u>. A good faith Tender of performance made in accordance with contractual terms discharges a party's duties under the Contract.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Illegality</u>. If the subject matter or the performance of the Contract becomes illegal, the party's duties under the Contract are discharged.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Impossibility</u>. The occurrence of an unanticipated or extraordinary event that makes performance of the Contract impossible may discharge the party's duties if such duties are objectively impossible to perform.</text>
+          <para>
+            <num>(1)</num>
+            <text>The impossibility must be objective, meaning that the duties could not be performed by anyone.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the performance to be rendered under the Contract becomes only partially impossible, the duty may be discharged only to that extent.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The death or physical incapacity of a party will not render the Contract impossible, unless the party who is now deceased or incapacitated was a person necessary to effectuate the Contract.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><u>Frustration</u>. The occurrence of a supervening act or event that frustrates the purpose of the Contract may discharge duties under the Contract. Frustration exists if the purpose of the Contract becomes valueless and the supervening act was not the fault of the party seeking the discharge.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><u>Rescission</u>. A mutual rescission of the Contract by the parties by express agreement and including Consideration will discharge the duties of each.</text>
+          <para>
+            <num>(1)</num>
+            <text>A rescission may be made orally, unless the Contract is within <cite path="|CMP.3.9.030|(a)">CMP.3.9.030(a)</cite> herein concerning the Prevention of Fraud.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Unilateral rescission may be granted only if the party seeking the rescission has adequate legal grounds, including claims of mistake, misrepresentation, duress, or failure of Consideration.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><u>Novation</u>. A novation is the substitution of a new Contract for a previous one. The new Agreement extinguishes the rights and obligations that were in effect under the previous Agreement or accomplishes or achieves the substitution of a new party for an original party to the Contract, if the following requirements are met:</text>
+          <para>
+            <num>(1)</num>
+            <text>A previous valid Contract exists; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All the parties are in agreement as to the new Contract.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><u>Partial Modification</u>. If the parties subsequently modify part of the Contract, the modification serves to discharge those terms of the original Contract that are subject to the modification. However, a modification will not serve to discharge the entire Contract. To receive a partial discharge by modification, the following must be met:</text>
+          <para>
+            <num>(1)</num>
+            <text>The modifying agreement must have been mutually assented to; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>There must be Consideration for the modification; however, it may be sufficient Consideration that each party limits his or her rights to enforce the original Contract.</text>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><u>Accord and Satisfaction</u>. An accord is an Agreement where one party to an existing Contract agrees to accept, in lieu of the performance that he or she is entitled to receive from the other party to the existing Contract, some other, different performance. The satisfaction is the performance of the accord agreement, and will discharge the duties under both Contracts.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.7</num>
+      <heading>Termination of a Contract</heading>
+      <section>
+        <num>CMP.3.7.010</num>
+        <heading>Contract Termination in General.</heading>
+        <text>A Contract may terminate upon the completion of performance by all parties.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.7.020</num>
+        <heading>Mutual Agreement.</heading>
+        <text>The parties to a Contract may terminate the Contract between them by mutual agreement for any reason.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.7.030</num>
+        <heading>Breach.</heading>
+        <text>A Contract may terminate upon a breach by one of the parties as set out in <cite path="CMP.3.8">CMP.3.8</cite> of this Statute.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.7.040</num>
+        <heading>Absence of Specific Time Provisions; Notice of Termination</heading>
+        <para>
+          <num>(a)</num>
+          <text>The time for shipment or delivery or any other action under a Contract if not provided in <cite path="CMP.3">this Chapter</cite> or agreed upon shall be a reasonable time.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Where the Contract provides for successive performances, but is indefinite in duration, it is valid for a reasonable time but, unless otherwise agreed, may be terminated at any time by either party.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Termination of a contract by one party except on the happening of an agreed event requires that reasonable notification be received by the other party and an agreement dispensing with notification is invalid if its operation would be unconscionable.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.8</num>
+      <heading>Breach of Contract</heading>
+      <section>
+        <num>CMP.3.8.010</num>
+        <heading>Contract Breach in General.</heading>
+        <text>A breach occurs when the Promisor is under an absolute duty to perform, the time for performance has passed, and the absolute duty of performance has not been discharged.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.8.020</num>
+        <heading>Effect of Breach.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The effect of a breach depends on the materiality of the breach. To determine whether a breach is minor or material, the Tribal Court may look to the following factors:</text>
+          <para>
+            <num>(1)</num>
+            <text>The extent to which each party will receive substantially the benefit he or she could have anticipated from full performance;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The extent to which either party may be adequately compensated in damages;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The extent to which each party has already performed or made preparations to perform;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The extent to which each party will suffer hardship by termination of the Contract;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The extent to which either party acted negligently or willfully in his or her failure to perform; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The extent to which the parties will perform the remainder of the Contract.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.8.030</num>
+        <heading>Minor Breach.</heading>
+        <text>A breach is minor if either party gains the substantial benefit of his or her bargain despite the Obligor's defective performance. Minor breaches may include, but are not limited to, delays in performance or small deficiencies in the quality or quantity of performance when precision is not critical. The nonbreaching party may have a remedy, but the breach will not relieve his or her duty of performance under the Contract.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.8.040</num>
+        <heading>Material Breach.</heading>
+        <text>A breach is material if either party does not receive the substantial benefit of the bargain as a result of failure to perform or defective performance. The non-breaching party is discharged from his or her duty to perform and has an immediate right to all remedies.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.8.050</num>
+        <heading>Minor Breach Coupled with Unwillingness to Perform.</heading>
+        <text>When the breach is minor and is coupled with an unwillingness to perform by the breaching party, the non-breaching party may treat this as a material breach. The non-breaching party is discharged from his or her duty to perform and has a right to all remedies.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.9</num>
+      <heading>Defenses</heading>
+      <section>
+        <num>CMP.3.9.010</num>
+        <heading>Defenses to Formation</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Lack of Mutual Assent</u>. If both parties entering into the Contract are mistaken about existing facts relating to the agreement, the Contract is voidable. The adversely affected party may void the Contract if:</text>
+          <para>
+            <num>(1)</num>
+            <text>The mistake concerns a basic assumption on which the Contract is made;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The mistake has a material effect on the agreed-upon exchange; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The party seeking to void the Contract did not assume the risk of the mistake.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Mistake in Transmission</u>. Where there is a mistake in the transmission of an Offer or Acceptance by an intermediary, the message as transmitted is operative unless the other party knew or should have known of the mistake.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Ambiguity</u>. When a Contract contains language that has at least two possible meanings, the following rules apply:</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Neither Party Aware</u>. Where there is an ambiguity in the Contract that neither party was aware of at the time of contracting, there is no Contract unless both parties intended the same meaning.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Both Parties Aware</u>. Where both of the parties were aware of the ambiguity at the time of contracting, there is no Contract unless both parties in fact intended the same meaning.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text><u>One Party Aware</u>. Where one party was aware of the ambiguity and the other party was not at the time of Contracting, a Contract will be enforced according to the intention of the party who was unaware of the ambiguity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Misrepresentation</u>. Where one party makes a false assertion intended to induce a party to enter into a Contract, the Contract is voidable if the innocent party justifiably relied on the false assertion.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><u>Lack of Consideration</u>. If the promises exchanged at the formation stage lack the elements of bargain or legal benefit or detriment, the Contract is void.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><u>Illegality</u>. If either the Consideration, the subject matter, or the performance of the Contract is illegal under the Constitution or laws of LCO or under applicable federal laws, the Contract is void. However, a party may not benefit from invoking illegality as a defense if that party knew of the illegal nature of the Consideration or subject matter of the Contract.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.9.020</num>
+        <heading>Defenses Based on Lack of Capacity</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Legal Incapacity to Contract</u>. If a person is legally incapable of incurring binding contractual obligations, timely assertion of this defense by a Promisor makes the Contract voidable at his or her election.</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Contracts of Minors</u>. A Contract entered into between a minor and an adult is voidable by the minor, but is binding on the adult.</text>
+            <para>
+              <num>(A)</num>
+              <text>The minor may choose to disaffirm a Contract any time before, or shortly after, reaching the age of 18. If the minor chooses to disaffirm, the minor must return anything received under the Contract that still remains at the time of disaffirmance.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>A minor may affirm the Contract upon reaching the age of 18 either expressly or by failing to disaffirm the Contract within a reasonable time after reaching the age of 18.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Exception. A minor is liable for the reasonable value of any necessities furnished to him or her.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Mental Incapacity</u>. A person whose mental capacity is so deficient that he or she is incapable of understanding the nature and significance of a Contract may disaffirm when lucid or by his or her legal representative.</text>
+            <para>
+              <num>(A)</num>
+              <text>Such person may affirm the Contract during a lucid interval or upon complete recovery.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Exception. A mentally incompetent person is liable for the reasonable value of any necessities furnished to him or her.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text><u>Intoxication</u>. The defense of intoxication is only available if the person was so intoxicated at the time that he or she entered the Contract that he or she did not understand the nature and significance of the Contract, and the other party knew or had reason to know of the intoxication.</text>
+            <para>
+              <num>(A)</num>
+              <text>An intoxicated person may affirm the Contract upon recovery.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text><u>Exception</u>. An intoxicated person is liable for the reasonable value of any necessities furnished to him or her.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Duress and Undue Influence</u>. Contracts induced by duress or undue influence are voidable and may be rescinded as long as not affirmed.</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Duress</u>. Duress occurs when:</text>
+            <para>
+              <num>(A)</num>
+              <text>a party is physically forced to sign a Contract against his or her will; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>a party's assent to a Contract is induced by an improper threat by the other party that leaves the victim no reasonable alternative.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Undue Influence</u>. Undue influence is the unfair persuasion of a party who is under the domination of the person exercising the persuasion, or who by virtue of the relationship between them is justified in assuming that the person will not act in a manner inconsistent with his or her welfare.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.9.030</num>
+        <heading>Defenses to Enforcement</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Prevention of Fraud</u>. For the prevention of fraud, certain Contracts must be evidenced by a Writing containing material terms and signed by the parties sought to be bound. If a Contract is required to be in Writing and is not, this fact must be raised as a defense, or it is waived. The following Contracts must be in Writing:</text>
+          <para>
+            <num>(1)</num>
+            <text>A promise by an executor or administrator to pay the debts of an estate out of his or her own personal funds must be evidenced by a Writing.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Suretyship promises, i.e., a promise to pay the debt of another, must be evidenced by a Writing. The promise must be to pay the debt of another upon default of that other person, and the promise must be made to the creditor.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A promise in consideration of marriage must be evidenced by a Writing. The promise can be to do or refrain from doing something if the parties marry, or it may be a promise to induce marriage by offering something of value.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>A promise creating an interest in land must be evidenced by a Writing. Such promises include: the sale of real property; leases for more than one year; easements for more than one year; promise for the sale of fixtures, minerals or structures to be severed by the buyer; and mortgages.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>A promise that by its terms cannot be performed within one year from the date of the Contract must be evidenced by a Writing. However, the Contract need not be in Writing if it is possible to complete performance under the Contract within one year, regardless of whether performance actually occurs within one year.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>A Contract for the sale of goods or the furnishing of services for a price of ten thousand dollars ($10,000.00) or more must be evidenced by a Writing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Unconscionability</u>. The Court may refuse to enforce a provision or an entire Contract to avoid unfair terms because of unfair surprise to an individual consumer or unequal bargaining power between an individual consumer and a commercial vendor or Merchant.</text>
+          <para>
+            <num>(1)</num>
+            <text>Inconspicuous risk-shifting provisions such as the following may be unconscionable: confession of judgment clauses; disclaimer of warranty provisions; and add-on clauses subjecting all of the property purchased by an individual consumer to repossession if a newly-purchased item is not paid for.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A clause or Contract may be unconscionable and unenforceable if the individual consumer is unable to procure necessary goods from any other seller without agreeing to a similar provision, thus leaving the individual consumer without a choice.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>An exculpatory clause releasing a Contracting party from liability for his or her own intentional wrongful acts may be unconscionable.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>It shall not be unconscionable to mandate arbitration, require a class action waiver, or agree to choose tribal law as governing a clause or Contract.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.10</num>
+      <heading>Remedies</heading>
+      <section>
+        <num>CMP.3.10.010</num>
+        <heading>Remedies in General.</heading>
+        <text>There are two primary types of remedies for Contract breach. Money damages and equitable remedies, unless otherwise indicated by the parties or subject to any express Contract term to the contrary.  The purpose of any remedy is to place the injured party in the position they would have been had the Contract been performed.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.10.020</num>
+        <heading>Available Remedies.</heading>
+        <text>In determining an appropriate remedy, the Court may consider any of the following, subject to any limitation of available remedies language mutually contracted for:</text>
+        <para>
+          <num>(a)</num>
+          <text><u>Specific Performance</u>. If monetary damages are inadequate, the non-breaching party may seek specific performance. Specific performance is an order by the Tribal Court ordering the breaching party to perform or face contempt charges. Specific performance should be granted only in cases where the subject matter of the Contract is rare or unique such as land, heirlooms or art, or such that monetary damages will not put the nonbreaching party in as good a position as performance would have, because there is no available substitute.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Compensatory Damages</u>. Compensatory damages should be granted for the purpose of putting the non-breaching party in the position he or she would have been had the Contract been performed.</text>
+          <para>
+            <num>(1)</num>
+            <text>Expectation damages are those that reflect the expected benefit of the Contract. Damages should be sufficient for the non-breaching party to purchase substitute performance.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Reliance damages are appropriate when the non-breaching party's damages are too speculative to measure. The non-breaching party may recover the cost of his or her performance, and reliance damages should restore him or her to the same position as if the Contract had never been formed.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Consequential damages are an appropriate remedy for losses resulting from the breach that a reasonable person would have foreseen would occur from a breach at the time of entry into the Contract.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Certainty Requirement. The non-breaching party has the burden of proving to the Tribal Court his or her damages to a reasonable certainty.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Nominal Damages</u>. Nominal damages may be awarded where a breach is proven but no actual loss can be demonstrated.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Liquidated Damages</u>. Parties to a Contract may stipulate what damages are to be paid in the event of a breach. Such liquidated damages, or a liquidated damages clause, are only enforceable by the Tribal Court if the liquidated damages are in an amount that is reasonable in view of the actual or anticipated harm caused by the breach. To obtain liquidated damages, the non-breaching party must prove:</text>
+          <para>
+            <num>(1)</num>
+            <text>That damages for a contractual breach were difficult to estimate or ascertain at the time the Contract was formed; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>That the amount agreed on as liquidated damages was a reasonable forecast of compensatory damages in the event of breach.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><u>Special Remedy for Contracts for the Sale of Land</u>. If specific performance is not appropriate or available, the Court may award compensatory damages measured by the difference between the Contract price and the fair market value of the land.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><u>Restitution</u>. Restitution is available where one party has conferred a benefit on the other, with the other party's knowledge and assent, and with the expectation of being compensated. The award of restitution should be measured by the benefit conferred, to prevent unjust enrichment of the party receiving the benefit.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><u>Rescission</u>. The grounds for rescission must have occurred either before or at the time the Contract was entered into. Such grounds include:</text>
+          <para>
+            <num>(1)</num>
+            <text>Mutual mistake of a material fact;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Unilateral mistake if the other party knew or should have known of the mistake;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Unilateral mistake if hardship suffered by the mistaken party is so extreme it outweighs the other party's expectations under the Contract;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Misrepresentation of fact or law by either party as to a material factor in the negotiations when that factor was relied upon; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>any other grounds including duress, undue influence, illegality, lack of capacity or failure of Consideration.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><u>Reformation</u>. Where the written Contract between the parties contains a clerical error or otherwise fails to reflect the actual intent of the parties, the Tribal Court may reform the Contract so that it accurately reflects the intent of the parties.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><u>Mutual Agreement</u>. The parties to a Contract are free to negotiate their own remedies before entering into the Contract. Additionally, where there is a breach or termination of the Contract, the parties are free to negotiate appropriate remedies at the time of the breach or termination.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Custom, Tradition, and Restorative Remedies.</text>
+          <para>
+            <num>(1)</num>
+            <text>In addition to or instead of monetary or injunctive remedies, and where agreed by the parties or appropriate under LCO custom and tradition, the Tribal Court or arbitrator may fashion restorative remedies aimed at repairing relationships and restoring balance, including:</text>
+            <para>
+              <num>(A)</num>
+              <text>Ceremonial or community acknowledgments;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Culturally appropriate restitution or service;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Other measures consistent with LCO traditions of healing and reciprocity.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any such restorative remedy shall respect the rights of all parties and, where the Tribe or a Tribal Entity is involved, shall not exceed the scope of any applicable Limited Waiver under LCOTCOL, <cite path="TCT.1">TCT.1</cite> and <cite path="|CMP.3.1.060">CMP.3.1.060</cite>.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.10.030</num>
+        <heading>Duty to Mitigate Damages.</heading>
+        <text>A party who is injured as a result of a Contract breach has a duty to act reasonably to minimize the harm caused by the breach and the expense to the breaching party.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.11</num>
+      <heading>Third Parties to the Contract</heading>
+      <section>
+        <num>CMP.3.11.010</num>
+        <heading>Categories of Third-Party Beneficiaries</heading>
+        <para>
+          <num>(a)</num>
+          <text>Intended beneficiaries are third parties that have rights under a Contract although they are not a party to the Contract. A person is an intended beneficiary if he or she is expressly designated in the Contract, performance is to be made directly to that person, or that person otherwise has rights under the Contract.</text>
+          <para>
+            <num>(1)</num>
+            <text>Creditor beneficiaries are intended beneficiaries where the Promisee's purpose is to discharge an obligation owed to the creditor beneficiary.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Donee beneficiaries are intended beneficiaries where the purpose is to confer a gift on the donee beneficiary.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Incidental beneficiaries are third parties that receive a benefit under a Contract, but have no rights under the Contract.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.11.020</num>
+        <heading>Vesting of Rights</heading>
+        <para>
+          <num>(a)</num>
+          <text>Once the beneficiary's rights have vested, the original parties to the Contract are both bound to perform the Contract.  Any efforts by the Promisor or the Promisee to rescind or modify the Contract at that point are void.  Intended beneficiaries may enforce a Contract only after their rights have vested.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Exception</u>. An intended beneficiary may enforce a Contract prior to his or her rights vesting when the Promisee tells the beneficiary of the Contract and should foresee reliance by the beneficiary, and the beneficiary reasonably relies to his or her detriment.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.11.030</num>
+        <heading>Assignment of Rights under a Contract</heading>
+        <para>
+          <num>(a)</num>
+          <text>In general, all Contractual rights may be assigned. However, an assignment is barred under the following circumstances.</text>
+          <para>
+            <num>(1)</num>
+            <text>If the assignment would substantially change the Obligor's duty;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the assignment would substantially alter the Obligor's risk;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If the assignment is prohibited by the laws of the LCO or other law; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>If the Contract contains an express provision that prohibits and makes void all assignments.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The effect of an assignment is to establish privity of Contract between the Obligor and the assignee while extinguishing privity between the Obligor and Assignor. The Assignee then replaces the Assignor as the real party in interest, and that person alone is entitled to performance under the Contract.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Assignments need not be in Writing unless the assignment is one of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Assignment of wages;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Assignments of interests in land; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Assignments intended as security interests under Article 9 of the Uniform Commercial Code or any similar law that may amend or replace it.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Assignments for value are irrevocable. An assignment for value exists if it is</text>
+          <para>
+            <num>(1)</num>
+            <text>Done for Consideration; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Taken as security for or payment of a preexisting debt.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Gratuitous assignments are generally revocable. However, they become irrevocable if the Obligor has already performed or grounds for estoppel exist. Such an assignment may be revoked in the following ways:</text>
+          <para>
+            <num>(1)</num>
+            <text>Death of the Assignor;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Bankruptcy of the Assignor;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Notice of revocation communicated by the Assignor to either the Assignee or the Obligor;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Assignor takes performance directly from the Obligor; or</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Subsequent assignment of the same right by the Assignor to another person.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Rights and Liabilities of the Parties.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Assignee may enforce his or her rights against the Obligor directly, but may be subject to any defenses that the Obligor had against the Assignor. However, the Obligor may not assert unrelated defenses against the Assignee.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Assignor impliedly warrants to an assignee for value that:</text>
+            <para>
+              <num>(A)</num>
+              <text>The Assignor has the right to make the assignment;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The right exists and is not subject to limitations or defenses other than those stated or apparent at the time of the assignment; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The Assignor will do nothing to defeat or impair the assigned right.</text>
+            </para>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.11.040</num>
+        <heading>Delegation of Duties under a Contract</heading>
+        <para>
+          <num>(a)</num>
+          <text>In general, all Contractual duties may be delegated to a third person. However, duties may not be delegated under the following circumstances:</text>
+          <para>
+            <num>(1)</num>
+            <text>Where the duties involve personal judgment and skill;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Where a special trust has been reposed;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Where the performance will materially change the expectancy under the Contract; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Where the Contract restricts either party's rights to delegate duties.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No formalities are required to have effective delegations, except that the Delegator must manifest a present intention to make the delegation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Rights and Liabilities of the Parties.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Obligee must accept performance from the Delegator of all duties that may be delegated.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Delegator remains liable on the Contract, even where the delegate expressly assumes the duties.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Delegator is not liable if there is a mere delegation. However, where the delegate assumes the duties of the Delegator and the promise is supported by Consideration, the delegate may be subject to liability together with the Delegator.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>CMP.3.12</num>
+      <heading>Arbitration Agreements</heading>
+      <section>
+        <num>CMP.3.12.010</num>
+        <heading>Policy Favoring Arbitration in Consumer Lending</heading>
+        <text>The Tribe supports arbitration as a means of efficiently resolving consumer lending disputes in a fair manner for all parties before a neutral arbitrator, while preserving Tribal jurisdiction and Sovereign Immunity protections.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.020</num>
+        <heading>Limited Scope</heading>
+        <text><cite path="CMP.3.12">This subchapter</cite> applies to any written contract or other instrument entered into by the Tribe or Tribal Entity, in which: (1) the parties thereto agree to settle by arbitration any controversy arising out of such contract or other instrument, or (2) the LCO Tribal Governing Board designates, by resolution, that <cite path="CMP.3.12">this subchapter</cite> shall apply in conformity with LCOTCOL, <cite path="TCT.1">TCT.1</cite> and <cite path="|CMP.3.1.060">CMP.3.1.060</cite>.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.030</num>
+        <heading>Enforceability of Agreements to Arbitrate</heading>
+        <para>
+          <num>(a)</num>
+          <text>An agreement in any written contract, agreement, or other instrument, or in a separate writing executed by the parties to any written contract, agreement or other instrument, to settle by arbitration any claim, dispute or controversy thereafter arising out of such contract, agreement or other instrument, or any other transaction contemplated thereunder, or a written agreement between two or more persons to submit to arbitration any claim, dispute or controversy existing between them at the time of the agreement, shall be valid, irrevocable and enforceable.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tribal Court shall enforce such agreements and stay or dismiss judicial proceedings in favor of arbitration as appropriate, consistent with <cite path="CMP.3.12">this Subchapter</cite>.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.040</num>
+        <heading>Law to be Applied</heading>
+        <para>
+          <num>(a)</num>
+          <text>In any contract or other instrument described in this ordinance, the parties may agree upon the jurisdiction whose substantive law shall govern the interpretation and enforcement of the contract, instrument or controversy. Such choice of law shall be valid and enforceable, and not subject to revocation by one party without the consent of the other party or parties thereto, provided that the subject matter of the contract, instrument or controversy, or at least one of the parties thereto, shall have some contact with the jurisdiction so selected.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In any proceeding under this ordinance, whenever the contract or other instrument sets forth a choice of law provision, the adjudicator shall apply the procedural rules of the chosen forum and the substantive law of the jurisdiction selected in such choice-of-law provision.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In any proceeding in the Tribal Court relating to a contract or other instrument described in <cite path="|CMP.3.12.020">CMP.3.12.020</cite> of this ordinance, whenever the contract or other instrument does not set forth a choice of law provision, the Tribal Court shall apply the substantive law of the Tribe, including any applicable choice-of-law principles.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.050</num>
+        <heading>Stay of Proceedings in Tribal Court and Order to Proceed with Arbitration</heading>
+        <para>
+          <num>(a)</num>
+          <text>If any action for legal or equitable relief or other proceeding is brought in the Tribal Court by any party to any contract or instrument described in <cite path="|CMP.3.12.020">CMP.3.12.020</cite> of this ordinance, the Tribal Court shall not review the merits of the pending action or proceeding, but shall stay the action or proceeding until an arbitration has been had in compliance with the agreement.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A party to any contract or other instrument described in <cite path="|CMP.3.12.020">CMP.3.12.020</cite> of this ordinance claiming the neglect or refusal of another party thereto to proceed with an arbitration thereunder may make application to the Tribal Court for an order directing the parties to proceed with the arbitration in compliance with their agreement. In such event, the Tribal Court shall order the parties to arbitration in accordance with the provisions of the contract or other instrument.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.060</num>
+        <heading>Delegation of Arbitrability to Arbitrator</heading>
+        <para>
+          <num>(a)</num>
+          <text>Parties may agree in writing that the arbitrator, rather than any court, will decide issues of:</text>
+          <para>
+            <num>(1)</num>
+            <text>Existence, validity, or scope of the Arbitration Agreement;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Whether particular claims or parties are subject to arbitration;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Alleged waiver, delay, or other defenses to arbitration.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any such delegation must be clear and unmistakable in the Arbitration Agreement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In any contract or other instrument involving the Tribe or a Tribal Entity, a delegation of arbitrability to the arbitrator is effective only if:</text>
+          <para>
+            <num>(1)</num>
+            <text>Expressly stated in the contract or other instrument; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Approved as part of a Limited Waiver of Sovereign Immunity satisfying LCOTCOL, <cite path="TCT.1">TCT.1</cite>.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.070</num>
+        <heading>Advice of the Court on Tribal, State or Federal Law or Tribal Knowledge Holders on Tribal Customs and Traditions</heading>
+        <para>
+          <num>(a)</num>
+          <text>At any time during an arbitration, upon request of all the parties to the arbitration, the arbitrator(s) may make application to the Tribal Court for advice on any question of the Tribe's law arising in the course of the arbitration.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The arbitrator may consider affidavit or oral testimony of Tribal elders, Tribal historians, Tribal cultural experts, and other knowledgeable persons regarding relevant customs and traditions. The arbitrator shall have the authority and discretion to direct proceedings so that Non-Indian and Non-Members have equal access to such evidence as Tribal Citizens.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.080</num>
+        <heading>Time Within Which Award Shall be Rendered; Notice to the Parties.</heading>
+        <para>
+          <num>(a)</num>
+          <text>If the time within which an award is rendered has not been fixed in the arbitration agreement, the arbitrator(s) shall render the award within thirty (30) days from the date the arbitration has been completed. The parties may, by written agreement, agree to extend the time in which the award may be made.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An arbitration award shall be in writing and signed by the arbitrator(s). The arbitrator(s) shall provide written notice of the award to each party by certified or registered mail, return receipt requested.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.090</num>
+        <heading>Application for Order Confirming Award; Effect and Enforcement of Judgment</heading>
+        <para>
+          <num>(a)</num>
+          <text>At any time within one (1) year after an arbitration award has been rendered and the parties thereto notified thereof, any party to the arbitration may make application to the Tribal Court for an order confirming the award.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any party applying to the Tribal Court for an order confirming an arbitration award shall, at the time the award is filed with the Clerk of the Tribal Court for entry of judgment thereon, file true and correct copies of the following papers with the Clerk:</text>
+          <para>
+            <num>(1)</num>
+            <text>the agreement to arbitrate;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>if applicable, the LCO Tribal Governing Board resolution approving application of this ordinance;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>written identification of the arbitrator(s) and any material documenting the selection or appointment of the arbitrator(s);</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>any written agreement requiring the reference of any question as provided in <cite path="|CMP.3.12.060">CMP.3.12.060</cite>;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>each written extension of the time, if any, within which to make the award;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>the award; and</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>evidence that all parties to the arbitration have received notice of the filing or the intent to file an application to the Tribal Court for confirmation of the arbitration award.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An arbitration award shall not be subject to review or modification by the Tribal Court, but shall be confirmed strictly as provided by the arbitrator; provided that the Tribal Court may nevertheless decline to enforce any arbitration award if it finds that any of the following occurred:</text>
+          <para>
+            <num>(1)</num>
+            <text>The award was procured by corruption, fraud, or undue means;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>There was evident partiality or corruption in the arbitrator(s);</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The arbitrator(s) were guilty of misconduct in refusing to postpone the hearing, upon sufficient cause shown, or in refusing to hear evidence pertinent and material to the controversy; or of any other misbehavior by which the rights of any party have been materially prejudiced; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The arbitrator(s) exceeded their powers, or so imperfectly executed them that a mutual, final, and definite award upon the subject matter submitted was not made.</text>
+          </para>
+          <aftertext>If an award is vacated and the time within which the agreement required the award to be made has not expired, the Tribal Court may, in its discretion, direct a rehearing by the arbitrator(s).</aftertext>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In any of the following cases where the Tribal Court is authorized to make an order regarding arbitration, the Tribal Court may make an order modifying or correcting the arbitration award upon the application of any party to the arbitration:</text>
+          <para>
+            <num>(1)</num>
+            <text>Where there was an evident material miscalculation of figures or an evident material mistake in the description of any person, thing, or property referred to in the award;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Where the arbitrator(s) have awarded upon a matter not submitted to them, unless it is a matter not affecting the merits of the decision upon the matter submitted; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Where the arbitration award is imperfect in matter of form not affecting the merits of the controversy.</text>
+          </para>
+          <aftertext>The order may modify and correct the award, so as to effect the intent thereof and promote justice between the parties.</aftertext>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The judgment confirming an award shall be docketed as if it were rendered in a civil action. The judgment so entered shall have the same force and effect in all respects as, and be subject to all the provisions of law relating to, a judgment in a civil action, and it may be enforced as if it has been rendered in a civil action in the Tribal Court. When the award requires the performance of any other act than the payment of money, the Tribal Court may direct the enforcement thereon in the manner provided by law.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.100</num>
+        <heading>Arbitration Award Not Appealable</heading>
+        <text>No further appeal may be taken from an order issued by the Tribal Court pursuant to this Code enforcing an agreement to arbitrate or an award issued by an arbitrator.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.110</num>
+        <heading>Jurisdiction of the Tribal Court</heading>
+        <text>To the extent allowed by federal law, the jurisdiction of the Tribal Court over any action to enforce an agreement to arbitrate, to compel arbitration pursuant to such an agreement to arbitrate and to enforce an award made by an arbitrator pursuant to such agreement to arbitrate, contained in any contract, agreement or other instrument described in <cite path="|CMP.3.12.020">CMP.3.12.020</cite> of this ordinance, shall be concurrent with the jurisdiction of any state or federal court to the jurisdiction of which the parties to such contract, agreement or other instrument shall have explicitly consented therein. Any consent to the jurisdiction of a state or federal court contained in a contract, agreement or other instrument described in <cite path="|CMP.3.12.020">CMP.3.12.020</cite> of this ordinance, and any waiver of the obligation of the parties to exhaust Tribal Court remedies shall be valid and enforceable in accordance with its terms only when approved in writing by the LCO Tribal Governing Board in compliance with LCOTCOL, <cite path="TCT.1">TCT.1</cite> and <cite path="|CMP.3.1.060">CMP.3.1.060</cite>.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>CMP.3.12.120</num>
+        <heading>Police Powers and Judgment Enforcement Remedies</heading>
+        <text>The Tribe's police powers shall be available to secure and support any arbitration award under this ordinance, and all police or other law enforcement officials of the Tribe shall carry out any orders that may be entered by the Tribal Court pursuant to this ordinance.</text>
+        <annotations>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <annotation app="2026-11-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-163" eff="2026-11-03" path="attachments|law|CMP.3" target-path="CMP" type="History"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>CMP.6</num>
     <heading>Workers' Compensation Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
     <container>
